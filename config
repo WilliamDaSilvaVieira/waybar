@@ -98,7 +98,7 @@
 		},
 		"scroll-step": 5,
 		"on-click": "wpctl set-mute @DEFAULT_SINK@ toggle",
-		"on-click-right": "pavucontrol"
+		"on-click-right": "pwvucontrol"
 	},
 	
 	"tray": {
